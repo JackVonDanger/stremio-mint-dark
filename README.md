@@ -6,7 +6,7 @@ A dark theme for Stremio Enhanced inspired by Linux Mint's Mint-Y-Dark color sch
 
 ## Preview
 
-![Stremio Mint Dark](screenshots/preview2.png)
+![Stremio Mint Dark](screenshots/window_preview.png)
 
 <br><br>
 
