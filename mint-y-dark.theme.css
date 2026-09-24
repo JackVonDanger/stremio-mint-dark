@@ -1,0 +1,25 @@
+/**
+ * @name Mint Y Dark Theme
+ * @description A theme for Stremio Enhanced that matches the Mint-Y-Dark colors.
+ * @version 1.0.0
+ * @author JackVonDanger
+ */
+
+@font-face {
+    font-family: 'NotoColorEmoji';
+    src: url('https://cdn.jsdelivr.net/gh/googlefonts/noto-emoji@main/fonts/NotoColorEmoji.ttf') format('truetype');
+}
+
+body {
+    font-family: PlusJakartaSans, Arial, Helvetica, "NotoColorEmoji", "sans-serif" !important;
+}
+
+:root {
+    --primary-background-color: rgba(34, 34, 38);
+    --secondary-background-color: rgba(34, 34, 38);
+    --modal-background-color: rgba(30, 30, 34);
+}
+
+.poster-image-NiV7O:hover{
+    cursor:pointer;
+}
