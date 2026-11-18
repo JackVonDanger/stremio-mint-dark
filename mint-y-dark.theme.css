@@ -1,7 +1,7 @@
 /**
- * @name Mint Y Dark Theme
- * @description A theme for Stremio Enhanced that matches the Mint-Y-Dark colors.
- * @version 1.0.0
+ * @name Mint Dark
+ * @description Gray dark theme for Stremio Enhanced.
+ * @version 4.0.0
  * @author JackVonDanger
  */
 
@@ -11,15 +11,21 @@
 }
 
 body {
-    font-family: PlusJakartaSans, Arial, Helvetica, "NotoColorEmoji", "sans-serif" !important;
+    font-family: PlusJakartaSans, Arial, Helvetica, "NotoColorEmoji", sans-serif !important;
 }
 
 :root {
-    --primary-background-color: rgba(34, 34, 38);
-    --secondary-background-color: rgba(34, 34, 38);
-    --modal-background-color: rgba(30, 30, 34);
+    --background-color-primary: #222226 !important;
+    --background-color-secondary: #222226 !important;
+    --modal-background-color: #1e1e22 !important;
+    --surface-background-color: #2a2a2e !important;
 }
 
-.poster-image-NiV7O:hover{
-    cursor:pointer;
+html body {
+    background: #222226 !important;
+    background-image: none !important;
+}
+
+.poster-image-NiV7O:hover {
+    cursor: pointer;
 }
